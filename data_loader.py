@@ -4,7 +4,7 @@ import streamlit as st
 
 @st.cache_data
 def load_data():
-    file_path = './data/TKM Orders.xlsx'
+    file_path = './TKM Orders.xlsx'
     df = pd.read_excel(file_path)
 
     # Convert object type columns to string
