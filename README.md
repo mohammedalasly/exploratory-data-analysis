@@ -54,3 +54,5 @@ This is a Streamlit application for visualizing data from an Excel file. The app
 This Data Visualization App provides a powerful and interactive way to explore and analyze data from an Excel file. By utilizing Streamlit, Plotly, and Pandas, the app allows users to seamlessly navigate through different types of visualizations, including histograms, bar charts, and pie charts. The intuitive interface and customizable options make it suitable for both beginners and experienced data analysts.
 
 I encourage contributions and feedback to help improve the app further. Feel free to explore, customize, and share your insights.
+
+#### 🌐 Live link: [exploratory-data-analysis](https://exploratory-data-analysis-mo.streamlit.app/)
